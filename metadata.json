@@ -1,0 +1,7 @@
+{
+  "name": "GaokaoMath Schema Master",
+  "description": "An AI-powered math error notebook that focuses on extracting 'Thinking Schemas' (mental models) from mistakes to help students master the 80% standardized high-frequency Gaokao math topics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}

@@ -72,7 +72,7 @@ const OnboardingGuide: React.FC<{ onClose: () => void }> = ({ onClose }) => {
                 <div>
                   <div className="text-xs font-bold text-emerald-900 uppercase">Action (思维动作)</div>
                   <div className="text-xs text-slate-600 mt-0.5">
-                    不需要重新推导，直接调用的“标准动作”。(如：看到偶函数 -> 想到去f加绝对值)
+                    不需要重新推导，直接调用的“标准动作”。(如：看到偶函数 {'->'} 想到去f加绝对值)
                   </div>
                 </div>
               </div>

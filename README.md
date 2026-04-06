@@ -232,12 +232,3 @@ npm run preview
 - 测试与文档体系
 - 设计资产或截图
 
-## 参考
-
-这版 README 的组织方式参考了通用 README 最佳实践，以及教育产品 / 学习工具类仓库常见结构：
-
-- GitHub Docs: https://docs.github.com/articles/about-readmes
-- GitHub Docs: https://docs.github.com/repositories/creating-and-managing-repositories/best-practices-for-repositories
-- Make a README: https://www.makeareadme.com/
-- OATutor: https://github.com/CAHLR/OATutor
-- AnkiDroid: https://github.com/ankidroid/Anki-Android
